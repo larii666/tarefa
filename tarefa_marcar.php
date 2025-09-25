@@ -31,7 +31,8 @@
                     <select name="txtPrioridade" class="form-control">
                         <option value="Alta">Alta</option>
                         <option value="Média">Média</option>
-                        <option value="Baixa">Baixa</option>
+                        
+                       
                     </select>
                 </div>
 
